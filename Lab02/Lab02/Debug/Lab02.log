@@ -1,0 +1,4 @@
+﻿  Lab02Main.cpp
+c:\users\wc068647\onedrive - cerner corporation\documents\umkc\2020\spring\cs 201l\lab02\lab02\lab02\lab02main.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab02.vcxproj -> C:\Users\wc068647\OneDrive - Cerner Corporation\Documents\UMKC\2020\Spring\CS 201L\lab02\Lab02\Debug\Lab02.exe
+  Lab02.vcxproj -> C:\Users\wc068647\OneDrive - Cerner Corporation\Documents\UMKC\2020\Spring\CS 201L\lab02\Lab02\Debug\Lab02.pdb (Partial PDB)
